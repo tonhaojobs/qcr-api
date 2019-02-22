@@ -27,7 +27,7 @@ repositories {
 
 
 ext {
-	springCloudVersion = 'Finchley.BUILD-SNAPSHOT'
+	springCloudVersion = 'Hoxton.BUILD-SNAPSHOT'
 }
 
 dependencies {
